@@ -7,7 +7,7 @@ public class CavazosExample {
 
   public static void main(String[] args) {
     String fileName =
-      "C:/Users/Public/GitHub/lab-week-10/demo/src/main/java/com/example/commands.json";
+      "C:/Users/Public/GitHub/lab-week-9/demo/src/main/java/com/example/commands.json";
 
     // read coammands
     JSONArray commandJSONArray = JSONFile.readArray(fileName);
